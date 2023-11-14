@@ -6,4 +6,4 @@ This is a repository to demostrate how to use GitHub and GitHub pages.
 
 ## Technology used
 
-HTML
+HTML and CSS.
