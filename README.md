@@ -1,6 +1,6 @@
 # GitHub-Day-1-Demo
 
-## About
+<h2> About </h2>
 
 This is a repository to demostrate how to use GitHub and GitHub pages.
 
